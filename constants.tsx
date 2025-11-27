@@ -15,14 +15,14 @@ export const COUNCILS: Record<string, CouncilConfig> = {
     appName: 'Blacktown Bins',
     councilName: 'Blacktown City Council',
     lastUpdated: 'March 1, 2024',
-    contactEmail: 'support@blacktownbins.com.au',
+    contactEmail: 'sophiekwon.syd@gmail.com',
   },
   'parramatta': {
     id: 'parramatta',
     appName: 'Parramatta Waste',
     councilName: 'City of Parramatta Council',
     lastUpdated: 'February 15, 2024',
-    contactEmail: 'support@parramattawaste.com.au',
+    contactEmail: 'sophiekwon.syd@gmail.com',
   }
 };
 
